@@ -124,7 +124,7 @@ a{
     grid-template-columns: 1fr 1fr;
     position: absolute;
     width: 100%;
-    bottom: -70px;
+    bottom: -100px;
 }
 
 .wrong{
