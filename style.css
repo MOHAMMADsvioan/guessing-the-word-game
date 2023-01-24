@@ -17,6 +17,7 @@
 body{
     /* background-color: var(--clr-bg-main); */
     background-image: url("cool.jpg");
+     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -123,7 +124,7 @@ a{
     grid-template-columns: 1fr 1fr;
     position: absolute;
     width: 100%;
-    bottom: 0;
+    bottom: -30;
 }
 
 .wrong{
